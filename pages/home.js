@@ -6,7 +6,6 @@ import Testimonials from "@/components/Testimonials";
 import Things from "@/components/Things";
 
 
-
 const Home = () => {
   return (
     
